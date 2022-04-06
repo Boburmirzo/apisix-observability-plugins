@@ -1,10 +1,8 @@
-= An API observability with Apache APISIX Plugins
-Bobur Umurzokov <boburmirzo.umurzokov@gmail.com>
+= An API observability with Apache APISIX Plugins Example
+Bobur Umurzokov <bumurzaqov2@gmail.com>
 :toc:
 :icons: font
 :experimental: true
-
-
 
 == HTTP Logger Plugin
 
